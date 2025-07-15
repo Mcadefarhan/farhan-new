@@ -1,2 +1,2 @@
 # farhan-new
-this is my demo session
+This is my first git repository
